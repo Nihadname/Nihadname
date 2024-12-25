@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [LearningManagementSystem](https://github.com/Nihadname/LearningManagementSystem)
 
-- 🌱 I’m currently learning **ML, React**
+- 🌱 I’m currently learning **ML, React,Asp.core api**
 
 - 📫 How to reach me **nihadmi@code.edu.az**
 
