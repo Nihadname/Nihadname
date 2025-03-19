@@ -10,8 +10,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [LearningManagementSystem]([https://github.com/Nihadname/LearningManagementSystem](https://github.com/Nihadname/EbuBridgeLmsSystem))
-
+🔭 I’m currently working on [LearningManagementSystem](https://github.com/Nihadname/EbuBridgeLmsSystem)
 - 🌱 I’m currently learning **ML, React,Asp.core api**
 
 - 📫 How to reach me **nihadmi@code.edu.az**
